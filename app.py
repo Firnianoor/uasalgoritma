@@ -278,6 +278,10 @@ if not pivot.empty and len(available_cols) > 0:
     st.sidebar.download_button("Download Chart Tren (PNG)", buf.getvalue(), "chart_tren.png", "image/png")
 
 # link github
+st.sidebar.markdown("---") # Garis pemisah untuk keterbacaan
+st.sidebar.subheader("Kode Sumber Proyek")
+st.sidebar.info("[Lihat di GitHub](https://github.com/Firnianoor/uasalgoritma)")
+
 
 # =========================
 # 11. README SINGKAT
