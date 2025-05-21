@@ -215,7 +215,7 @@ else:
     st.pyplot(fig4)
 
 # Link ke interpretasi
-st.markdown("[Lanjut ke Interpretasi Hasil Visualisasi HeatMap Korelasi](#✍️-interpretasi-hasil-visualisasi-heatmap-korelasi)")
+st.markdown("[Lanjut ke Interpretasi Hasil Visualisasi HeatMap Korelasi](#interpretasi-hasil-visualisasi-heatmap-korelasi)")
 
 # =========================
 # 8. REGRESI LINEAR SEDERHANA
