@@ -449,7 +449,7 @@ Temuan Utama:
 
 st.markdown("""
 ---
-## ✍️ Interpretasi Hasil Visualisasi HeatMap korelasi
+## ✍️ Interpretasi Hasil Visualisasi HeatMap Korelasi
 
 
 Interpretasi Korelasi antar Jenjang Pendidikan :
